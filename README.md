@@ -1,1 +1,1 @@
-webpack-tempate-vue default template
+tempate-vue default template
