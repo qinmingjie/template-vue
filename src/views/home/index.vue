@@ -1,25 +1,15 @@
 <template>
-  <div class="home">home</div>
+  <div class="home">
+    <h2>Hello Vue</h2>
+  </div>
 </template>
 <script>
 export default {
-  name: "HomeIndex",
-  props: {},
-  components: {},
-  data() {
-    return {};
-  },
-  computed: {},
-  methods: {},
-  created() {},
-  mounted() {},
-  watch: {}
+  name: "HomeIndex"
 };
 </script>
 <style lang="scss" scoped>
 .home {
-  color: skyblue;
-  background-color: #12345678;
-  user-select: all;
+  text-align: center;
 }
 </style>
