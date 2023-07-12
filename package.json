@@ -21,6 +21,7 @@
     "@vue/eslint-config-prettier": "^7.1.0",
     "eslint": "^8.39.0",
     "eslint-plugin-vue": "^9.11.0",
+    "postcss": ">=8.3.11 <9.0.0",
     "postcss-preset-env": "^9.0.0",
     "prettier": "^2.8.8",
     "sass": "^1.63.6",
