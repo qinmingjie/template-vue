@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <h2>Hello Vue</h2>
+    <el-button>button</el-button>
   </div>
 </template>
 <script>
